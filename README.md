@@ -1,1 +1,1 @@
-Learn the mosaic framework and taylor
+Learn the mosaic framework and tailor
